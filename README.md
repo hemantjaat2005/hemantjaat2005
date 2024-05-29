@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemantjaat2005.
-- 👀 I’m interested in ethical hacking, cybersecurity.
-- 🌱 I’m currently learning Python and ethical hacking skills.
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on open source projects.
 
 
